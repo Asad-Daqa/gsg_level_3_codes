@@ -1,0 +1,22 @@
+# Problem Statement
+
+Given 'n'days (1 ≤ n ≤ 10), generate all possible schedules using the activities:  
+"Swimming", "Running", "Football",  
+ensuring no two consecutive days have the same activity.  
+Print each valid schedule and the total count.
+
+### Example
+
+**Input:**  
+2
+
+
+**Output:**  
+
+Football Running
+Football Swimming
+Running Football
+Running Swimming
+Swimming Football
+Swimming Running
+COUNT: 6
