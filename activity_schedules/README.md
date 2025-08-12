@@ -26,7 +26,8 @@ Print each valid schedule and the total count.
 <div>Swimming Running</div>
 COUNT: 6
 
-
+<h3>formula is :<h3>
+**Count=3*2^(n-1)**
 
 
 
