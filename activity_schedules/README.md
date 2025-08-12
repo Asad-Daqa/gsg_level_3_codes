@@ -18,12 +18,12 @@ Print each valid schedule and the total count.
 
 **Output:**  
 
-Football Running
-Football Swimming
-Running Football
-Running Swimming
-Swimming Football
-Swimming Running
+<div>Football Running</div>
+<div>Football Swimming</div>
+<div>Running Football</div>
+<div>Running Swimming</div>
+<div>Swimming Football</div>
+<div>Swimming Running</div>
 COUNT: 6
 
 
